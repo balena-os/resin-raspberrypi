@@ -1,6 +1,13 @@
 Change log
 -----------
 
+# v2.80.8+rev5
+## (2021-07-09)
+
+* Update unipi-kernel-modules to version 1.68 [Florin Sarbu]
+* Update rpi firmware to version 20210421 [Florin Sarbu]
+* Update kernel to version 5.10.31 [Florin Sarbu]
+
 # v2.80.8+rev4
 ## (2021-07-08)
 
