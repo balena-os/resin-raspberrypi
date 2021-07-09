@@ -1,4 +1,41 @@
 - commits:
+    - subject: Update unipi-kernel-modules to version 1.68
+      hash: b1c9ebb8b6f0b915d1fe4b47efedc2e9c0ad0c1f
+      body: ''
+      footer:
+        Changelog-entry: Update unipi-kernel-modules to version 1.68
+        changelog-entry: Update unipi-kernel-modules to version 1.68
+        Signed-off-by: Florin Sarbu <florin@balena.io>
+        signed-off-by: Florin Sarbu <florin@balena.io>
+      author: Florin Sarbu
+      nested: []
+    - subject: Update rpi firmware to version 20210421
+      hash: 642eaf83da7038507b92cbd473b7847b906ccee0
+      body: ''
+      footer:
+        Changelog-entry: Update rpi firmware to version 20210421
+        changelog-entry: Update rpi firmware to version 20210421
+        Signed-off-by: Florin Sarbu <florin@balena.io>
+        signed-off-by: Florin Sarbu <florin@balena.io>
+      author: Florin Sarbu
+      nested: []
+    - subject: Update kernel to version 5.10.31
+      hash: 3aa8bd6dc6f4a7d59bb665f3c48f050a5f8226dd
+      body: |
+        With this update we also remove the older 5.4.83 kernel version.
+
+        The new kernel recipe is taken from meta-raspberrypi branch hardknott
+        revision 064f5404ea90f02bd15088de6317692098d9f770
+      footer:
+        Changelog-entry: Update kernel to version 5.10.31
+        changelog-entry: Update kernel to version 5.10.31
+        Signed-off-by: Florin Sarbu <florin@balena.io>
+        signed-off-by: Florin Sarbu <florin@balena.io>
+      author: Florin Sarbu
+      nested: []
+  version: 2.80.8+rev5
+  date: 2021-07-09T10:15:38.628Z
+- commits:
     - subject: Update poky to dunfell-23.0.6
       hash: 4c53fb1f0a1c7b37d39b5da22a606b7e71683976
       body: ''
